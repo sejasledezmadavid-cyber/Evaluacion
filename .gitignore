@@ -1,0 +1,12 @@
+# Carpeta de configuración de VS Code
+.vscode/
+
+# Archivos temporales de macOS y Windows
+.DS_Store
+Thumbs.db
+
+# Dependencias de Node.js (Más adelante en el curso)
+node_modules/
+
+# Archivos con credenciales (en backend)
+.env
